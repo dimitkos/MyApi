@@ -1,0 +1,11 @@
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Δημήτρης\Desktop\WebApiWorkspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
